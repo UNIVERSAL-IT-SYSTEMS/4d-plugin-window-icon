@@ -1,0 +1,1 @@
+﻿{"name":"Window Icon","id":20000,"commands":[{"theme":"Window Icon","syntax":"WINDOW SET ICON(&L;&P)"},{"theme":"Window Icon","syntax":"WINDOW Get icon(&L):P"}]}
