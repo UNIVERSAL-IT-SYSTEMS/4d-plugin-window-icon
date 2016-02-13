@@ -5,7 +5,7 @@ Get and set window icon, carbon or cocoa.
 
 | carbon | cocoa | win32 | win64 |
 |:------:|:-----:|:---------:|:---------:|
-|🆗|🚫|🆗|🆗|
+|🆗|🆗|🚫|🚫|
 
 Commands
 ---
